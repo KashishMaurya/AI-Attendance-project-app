@@ -1,0 +1,25 @@
+streamlit
+# Utilitites 
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin # dlib-bin is a precompiled version of dlib, which is a library for machine learning and computer vision tasks. It is used for face detection and recognition in this project.
+git+https://github.com/ageitgey/face_recognition_models  #github repo for face recongition models face embeddings
+setuptools<70.0.0 # helpsto avoid error with installation 
+
+
+# db
+supabase
+bcrypt # for password hashing
+
+
+
+segno  #qrcode
+pillow # for image processing 
+
+
+
+librosa # for audio processing
+resemblyzer # for voice recognition and speaker verification
